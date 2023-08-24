@@ -1,4 +1,4 @@
-#I am currently in the 4th year of Information Systems Engineering. I am on my way to being a web developer, I have knowledge in technologies such as C #, HTML5, Css I am currently learning javasctipt. My goal is to be able to provide my services, either to develop pages, sites or web applications for clients, thus acquiring much more knowledge in work environments of this immense field of programming.
+# I am currently in the 4th year of Information Systems Engineering. I am on my way to being a web developer, I have knowledge in technologies such as C #, HTML5, Css I am currently learning javasctipt. My goal is to be able to provide my services, either to develop pages, sites or web applications for clients, thus acquiring much more knowledge in work environments of this immense field of programming.
 
 ## Languages and Tools
 ![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
