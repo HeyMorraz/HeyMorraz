@@ -1,4 +1,4 @@
-# I am a recent graduate in Information Systems Engineering with practical experience in both frontend and backend web development. I have participated in various projects using technologies such as JavaScript, React, Tailwind CSS, and WordPress, and also have a solid foundation in C#, HTML5, and CSS. I am passionate about building functional and visually appealing web solutions. My goal is to contribute to impactful web projects, continue growing as a developer, and gain valuable experience in professional environments within the ever-evolving field of technology.
+#I am a recent graduate in Information Systems Engineering with practical experience in both frontend and backend web development. I have participated in various projects using technologies such as JavaScript, React, Tailwind CSS, and WordPress, and also have a solid foundation in C#, HTML5, and CSS. I am passionate about building functional and visually appealing web solutions. My goal is to contribute to impactful web projects, continue growing as a developer, and gain valuable experience in professional environments within the ever-evolving field of technology.
 
 
 ## Languages and Tools
