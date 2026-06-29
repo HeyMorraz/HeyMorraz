@@ -1,10 +1,18 @@
-#I am a recent graduate in Information Systems Engineering with practical experience in both frontend and backend web development. I have participated in various projects using technologies such as JavaScript, React, Tailwind CSS, and WordPress, and also have a solid foundation in C#, HTML5, and CSS. I am passionate about building functional and visually appealing web solutions. My goal is to contribute to impactful web projects, continue growing as a developer, and gain valuable experience in professional environments within the ever-evolving field of technology.
+# Hi there 
 
+I'm **Heyling Morraz**, an Information Systems Engineer with experience in web development, CRM solutions, and workflow automation.
+
+Currently, I work as a **Frontend Developer** while also designing and maintaining **n8n automation workflows** that integrate third-party platforms such as Salesforce, NocoDB, ScoreApp, Bouncer, and external APIs. My work focuses on building reliable integrations, optimizing business processes, and delivering scalable solutions.
+
+I have hands-on experience with:
+
+- React.js, Next.js, JavaScript (ES6+), HTML5, CSS3 and Tailwind CSS
+- WordPress development, theme customization and plugin development (PHP)
+- Salesforce, Account Engagement (Pardot), ActiveCampaign and Mailchimp
+- n8n workflow automation and third-party API integrations
+- MySQL and SQL Server
+- Git, GitHub and collaborative development workflows
+
+I'm passionate about solving real-world problems through clean code, automation, and continuous learning. My goal is to keep growing as a software engineer while contributing to projects that create meaningful business value.
 
 ## Languages and Tools
-![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white).
-
-
-
